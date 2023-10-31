@@ -1,6 +1,6 @@
 # Hydr8
 
-A new Flutter project.
+Flutter project creating mobile app for users of the Hydr8 water bottle.
 
 ## Getting Started
 
